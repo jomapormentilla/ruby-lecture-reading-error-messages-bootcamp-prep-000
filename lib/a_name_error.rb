@@ -1,3 +1,3 @@
 "hello world"
 
-define hello_world
+hello_world = "fixed"
